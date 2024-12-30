@@ -60,10 +60,12 @@ Software Developer with 3 years of experience in building and deploying **highly
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) 
 ![Pulumi](https://img.shields.io/badge/Pulumi-623CE4?logo=Pulumi&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
+![GitHub-Actions](https://img.shields.io/badge/GitHu-Actions-D24939?logo=GitHu-Actions&logoColor=white) 
 
 
 **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) 
+![AzureSQL](https://img.shields.io/badge/AzureSQLServer-336791?logo=AzureSQLServer&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
 
