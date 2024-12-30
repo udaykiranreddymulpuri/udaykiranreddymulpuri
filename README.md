@@ -58,7 +58,7 @@ Software Developer with 3 years of experience in building and deploying **highly
 
 **Tools**   
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) 
-![Pulumi](https://img.shields.io/badge/Pulumi-623CE4?logo=terraform&logoColor=white) 
+![Pulumi](https://img.shields.io/badge/Pulumi-623CE4?logo=Pulumi&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
 
 
