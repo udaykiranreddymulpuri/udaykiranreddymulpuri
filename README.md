@@ -28,7 +28,7 @@ Software Developer with 3 years of experience in building and deploying **highly
 ## 💼 Work Experience  
 
 ### **Graduate Assistant**  
-*Northeastern University, Boston, MA | May 2023 – Apr 2023*  
+*Northeastern University, Boston, MA | May 2023 – Apr 2024*  
 - Providing instructional support by clarifying concepts regarding Object-Oriented Programming, Solid Principles and Design Patterns along with responding to student queries leading to a 30% reduction in code errors in final assignments
 - Conducted code reviews and provided mentorship to students, fostering a collaborative and high-performing environment
 
