@@ -43,6 +43,7 @@ Software Developer with 3 years of experience in building and deploying **highly
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 
